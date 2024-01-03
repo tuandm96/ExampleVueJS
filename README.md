@@ -1,2 +1,2 @@
 # ExampleVueJS
-Project demo to learning VuewJS
+Project demo to learning VueJS
